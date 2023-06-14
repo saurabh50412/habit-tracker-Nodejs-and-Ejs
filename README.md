@@ -8,10 +8,10 @@ This is a Habit Tracker  Project which is built using Nodejs, Ejs ,CSS, Javascri
 ## Features
 - Add Habit <br/>
 - Each Habit Track Weekly<br/>
- - Mark Habit as Done
- - Mark as Undone
- - Toggle to Default - No action setting
- - Delete a habit
+  - Mark Habit as Done
+  - Mark as Undone
+  - Toggle to Default - No action setting
+  - Delete a habit
 
 ## Folder Structure 
 - Index.js: Main JS file which connects to all modules, imports the different packages and is the first file which runs when the app is started
