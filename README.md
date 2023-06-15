@@ -1,8 +1,6 @@
-# Habit Tracker 
- 
-Hosted URL - https://habit-tracker-hqty.onrender.com/
+# Hosted URL - https://habit-tracker-hqty.onrender.com/
 
-This is a Habit Tracker  Project which is built using Nodejs, Ejs ,CSS, Javascript , Bootstrap
+This is a Habit Tracker  Project which is built using Nodejs, Ejs , CSS, Javascript , Bootstrap
 
 ## Features
 - Add Habit <br/>
@@ -28,5 +26,6 @@ This is a Habit Tracker  Project which is built using Nodejs, Ejs ,CSS, Javascri
 - mongoose<br/>
 - nodemon<br/>
 
+Hosted URL - https://habit-tracker-hqty.onrender.com/
 
 
